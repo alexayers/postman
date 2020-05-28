@@ -4,3 +4,5 @@ class DateUtils {
         console.log("This is a test");
     }
 }
+
+const dateUtil = new DateUtils();
